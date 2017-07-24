@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Münster GO Usergroup. Programming and Hacking in GO. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Kubernetes, docker, etcd, terraform, consul, influxDB are just some of many well-known examples of software written in ‘go’. ‘Go’ is slim, has a flat learning curve - and is just cool. We want to use this group to gather and share experiences with go, and to learn from each other.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Meetup](https://www.meetup.com/de-DE/Munster-Gophers/)
+[Slack](https://join.slack.com/t/muenstergophers/shared_invite/MjE2MTc3ODMxMzYxLTE1MDA4OTQwNjMtM2YwNDJhOGYyOQ)

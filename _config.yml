@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Münster Gophers
-email: markus.hoefer@codecentric.de
+# email: markus.hoefer@codecentric.de
 description: > # this means to ignore newlines until "baseurl:"
   Münster GO Usergroup. Programming and Hacking in GO. 
   Kubernetes, docker, etcd, terraform, consul, influxDB are 

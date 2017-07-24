@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Kickstart Session"
+date:   2017-07-24 23:33:30 +0200
+categories: meetup
+---
+
 # Summary
 Today during our second meetup, we helped all members setting up golang and installing an IDE. We had a look at the syntax of go and did some examples with functions, error handling, vendoring, packages and visibility.
 
